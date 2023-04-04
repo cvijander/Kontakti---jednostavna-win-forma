@@ -1,0 +1,17 @@
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Kontakti\Kontakti\bin\Debug\net6.0-windows\Kontakti.exe
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Kontakti\Kontakti\bin\Debug\net6.0-windows\Kontakti.deps.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Kontakti\Kontakti\bin\Debug\net6.0-windows\Kontakti.runtimeconfig.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Kontakti\Kontakti\bin\Debug\net6.0-windows\Kontakti.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Kontakti\Kontakti\bin\Debug\net6.0-windows\Kontakti.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Kontakti\Kontakti\obj\Debug\net6.0-windows\Kontakti.csproj.AssemblyReference.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Kontakti\Kontakti\obj\Debug\net6.0-windows\Kontakti.Form1.resources
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Kontakti\Kontakti\obj\Debug\net6.0-windows\Kontakti.csproj.GenerateResource.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Kontakti\Kontakti\obj\Debug\net6.0-windows\Kontakti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Kontakti\Kontakti\obj\Debug\net6.0-windows\Kontakti.AssemblyInfoInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Kontakti\Kontakti\obj\Debug\net6.0-windows\Kontakti.AssemblyInfo.cs
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Kontakti\Kontakti\obj\Debug\net6.0-windows\Kontakti.csproj.CoreCompileInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Kontakti\Kontakti\obj\Debug\net6.0-windows\Kontakti.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Kontakti\Kontakti\obj\Debug\net6.0-windows\refint\Kontakti.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Kontakti\Kontakti\obj\Debug\net6.0-windows\Kontakti.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Kontakti\Kontakti\obj\Debug\net6.0-windows\Kontakti.genruntimeconfig.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Kontakti\Kontakti\obj\Debug\net6.0-windows\ref\Kontakti.dll
