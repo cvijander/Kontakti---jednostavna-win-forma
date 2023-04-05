@@ -3,6 +3,7 @@ namespace Kontakti
     public partial class Form1 : Form
     {
         private List<Contact> listaKontakata = new List<Contact>();
+        private Dictionary<string, string> recnik = new Dictionary<string, string>();
 
         public Form1()
         {
@@ -11,6 +12,13 @@ namespace Kontakti
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            Text = "Login";
+            txtLozinka.PasswordChar = '*';
+
+            recnik["milan"] = "milan1";
+            recnik["ana"] = "ana1";
+            recnik["uros"] = "uros1";
+            this.Size = new Size(500, 350);
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -79,6 +87,41 @@ namespace Kontakti
                         return;
                     }
                 }
+            }
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            string korisnickoIme = txtKorisnickoIme.Text;
+            string lozinka = txtLozinka.Text;
+
+            if (recnik.Keys.Contains(korisnickoIme))
+            {
+                if (recnik[korisnickoIme] == lozinka)
+                {
+                    txtKorisnickoIme.Visible = false;
+                    txtLozinka.Visible = false;
+                    lblKorisnickoIme.Visible = false;
+                    lblLozinka.Visible = false;
+                    btnPrijava.Visible = false;
+                    txtRedniBroj.Visible = true;
+                    txtIme.Visible = true;
+                    txtPrezime.Visible = true;
+                    mtxtTelefon.Visible = true;
+                    btnDodajKontakt.Visible = true;
+                    btnPronadjiKontakt.Visible = true;
+                    label1.Visible = true;
+                    label2.Visible = true;
+                    label3.Visible = true;
+                    label4.Visible = true;
+                    this.Size = new Size(400, 500);
+                }
+                else
+                    MessageBox.Show("Lozinka nije ispravna");
+            }
+            else
+            {
+                MessageBox.Show("Korisnicko ime ne postoji");
             }
         }
     }
